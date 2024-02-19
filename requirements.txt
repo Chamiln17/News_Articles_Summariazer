@@ -1,3 +1,6 @@
 langchain
 deeplake
 openai
+newspaper3k 
+python-dotenv
+requests
